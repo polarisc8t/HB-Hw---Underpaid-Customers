@@ -1,0 +1,990 @@
+['2', 'Andrea Cruz', '12', '12.00\n']
+Andrea paid 12.00
+, expected 12.0
+['3', 'Rachel Meyer', '73', '73.00\n']
+Rachel paid 73.00
+, expected 73.0
+['4', 'Michelle Simpson', '7', '5.64\n']
+Michelle paid 5.64
+, expected 7.0
+['6', 'Phyllis Chapman', '9', '6.37\n']
+Phyllis paid 6.37
+, expected 9.0
+['10', 'Deborah Black', '2', '2.00\n']
+Deborah paid 2.00
+, expected 2.0
+['11', 'Irene Adams', '17', '4.28\n']
+Irene paid 4.28
+, expected 17.0
+['16', 'Donna Webb', '8', '4.69\n']
+Donna paid 4.69
+, expected 8.0
+['17', 'Lisa Little', '6', '6.00\n']
+Lisa paid 6.00
+, expected 6.0
+['18', 'Nicole Nelson', '2', '0.58\n']
+Nicole paid 0.58
+, expected 2.0
+['19', 'Laura Harrison', '7', '7.00\n']
+Laura paid 7.00
+, expected 7.0
+['20', 'Denise Woods', '9', '9.00\n']
+Denise paid 9.00
+, expected 9.0
+['26', 'Marilyn Ross', '3', '1.25\n']
+Marilyn paid 1.25
+, expected 3.0
+['28', 'Helen Thompson', '16', '5.25\n']
+Helen paid 5.25
+, expected 16.0
+['29', 'Shirley Thompson', '5', '5.00\n']
+Shirley paid 5.00
+, expected 5.0
+['32', 'Doris Castillo', '84', '84.00\n']
+Doris paid 84.00
+, expected 84.0
+['33', 'Heather Cox', '11', '11.00\n']
+Heather paid 11.00
+, expected 11.0
+['34', 'Heather Sanchez', '8', '8.00\n']
+Heather paid 8.00
+, expected 8.0
+['37', 'Andrea Morgan', '10', '10.00\n']
+Andrea paid 10.00
+, expected 10.0
+['41', 'Helen Hunter', '5', '5.00\n']
+Helen paid 5.00
+, expected 5.0
+['44', 'Kathy Tucker', '5', '5.00\n']
+Kathy paid 5.00
+, expected 5.0
+['45', 'Barbara Hayes', '2', '2.00\n']
+Barbara paid 2.00
+, expected 2.0
+['47', 'Anna Jacobs', '7', '7.00\n']
+Anna paid 7.00
+, expected 7.0
+['48', 'Joyce Olson', '10', '0.13\n']
+Joyce paid 0.13
+, expected 10.0
+['69', 'Marilyn Robertson', '50', '50.00\n']
+Marilyn paid 50.00
+, expected 50.0
+['72', 'Patricia Austin', '2', '2.00\n']
+Patricia paid 2.00
+, expected 2.0
+['75', 'Ruby Robinson', '4', '4.00\n']
+Ruby paid 4.00
+, expected 4.0
+['76', 'Nancy Hunt', '7', '7.00\n']
+Nancy paid 7.00
+, expected 7.0
+['77', 'Debra Graham', '5', '0.72\n']
+Debra paid 0.72
+, expected 5.0
+['87', 'Catherine Nguyen', '7', '7.00\n']
+Catherine paid 7.00
+, expected 7.0
+['89', 'Sara Rose', '8', '8.00\n']
+Sara paid 8.00
+, expected 8.0
+['91', 'Rose Morris', '9', '9.00\n']
+Rose paid 9.00
+, expected 9.0
+['93', 'Rebecca Cooper', '10', '10.00\n']
+Rebecca paid 10.00
+, expected 10.0
+['95', 'Donna Jordan', '19', '19.00\n']
+Donna paid 19.00
+, expected 19.0
+['101', 'Kathy Dunn', '11', '11.00\n']
+Kathy paid 11.00
+, expected 11.0
+['106', 'Bonnie Smith', '7', '7.00\n']
+Bonnie paid 7.00
+, expected 7.0
+['109', 'Paula Perry', '10', '10.00\n']
+Paula paid 10.00
+, expected 10.0
+['112', 'Emily Butler', '10', '9.72\n']
+Emily paid 9.72
+, expected 10.0
+['113', 'Maria Reyes', '2', '2.00\n']
+Maria paid 2.00
+, expected 2.0
+['124', 'Melissa Gray', '3', '3.00\n']
+Melissa paid 3.00
+, expected 3.0
+['125', 'Dorothy Perez', '16', '16.00\n']
+Dorothy paid 16.00
+, expected 16.0
+['126', 'Kimberly Barnes', '2', '0.73\n']
+Kimberly paid 0.73
+, expected 2.0
+['128', 'Shirley Rogers', '2', '2.00\n']
+Shirley paid 2.00
+, expected 2.0
+['130', 'Joan Mills', '11', '11.00\n']
+Joan paid 11.00
+, expected 11.0
+['131', 'Julie Hughes', '66', '66.00\n']
+Julie paid 66.00
+, expected 66.0
+['144', 'Marilyn Cook', '10', '10.00\n']
+Marilyn paid 10.00
+, expected 10.0
+['146', 'Patricia Stone', '9', '1.60\n']
+Patricia paid 1.60
+, expected 9.0
+['148', 'Margaret Stanley', '2', '2.00\n']
+Margaret paid 2.00
+, expected 2.0
+['149', 'Sara Dean', '14', '10.17\n']
+Sara paid 10.17
+, expected 14.0
+['151', 'Tina Murphy', '7', '3.41\n']
+Tina paid 3.41
+, expected 7.0
+['152', 'Julia Morgan', '4', '4.00\n']
+Julia paid 4.00
+, expected 4.0
+['153', 'Debra Barnes', '10', '10.00\n']
+Debra paid 10.00
+, expected 10.0
+['155', 'Irene Henderson', '5', '5.00\n']
+Irene paid 5.00
+, expected 5.0
+['158', 'Rose Hayes', '8', '8.00\n']
+Rose paid 8.00
+, expected 8.0
+['159', 'Maria Alvarez', '7', '0.11\n']
+Maria paid 0.11
+, expected 7.0
+['162', 'Jean Ford', '7', '7.00\n']
+Jean paid 7.00
+, expected 7.0
+['165', 'Robin Lane', '3', '3.00\n']
+Robin paid 3.00
+, expected 3.0
+['170', 'Evelyn Gardner', '10', '2.49\n']
+Evelyn paid 2.49
+, expected 10.0
+['171', 'Jacqueline Jackson', '11', '1.59\n']
+Jacqueline paid 1.59
+, expected 11.0
+['173', 'Marie Mendoza', '8', '8.00\n']
+Marie paid 8.00
+, expected 8.0
+['174', 'Paula Kim', '5', '5.00\n']
+Paula paid 5.00
+, expected 5.0
+['176', 'Michelle George', '97', '97.00\n']
+Michelle paid 97.00
+, expected 97.0
+['180', 'Laura Diaz', '8', '8.00\n']
+Laura paid 8.00
+, expected 8.0
+['183', 'Janet Scott', '2', '2.00\n']
+Janet paid 2.00
+, expected 2.0
+['184', 'Phyllis Rodriguez', '4', '4.00\n']
+Phyllis paid 4.00
+, expected 4.0
+['185', 'Paula Stewart', '7', '7.00\n']
+Paula paid 7.00
+, expected 7.0
+['188', 'Linda Williams', '61', '61.00\n']
+Linda paid 61.00
+, expected 61.0
+['194', 'Anna Stewart', '1', '0.48\n']
+Anna paid 0.48
+, expected 1.0
+['197', 'Doris Henderson', '2', '2.00\n']
+Doris paid 2.00
+, expected 2.0
+['203', 'Nancy Ramos', '11', '11.00\n']
+Nancy paid 11.00
+, expected 11.0
+['205', 'Stephanie Bowman', '5', '5.00\n']
+Stephanie paid 5.00
+, expected 5.0
+['210', 'Lori Bennett', '7', '7.00\n']
+Lori paid 7.00
+, expected 7.0
+['212', 'Sharon Crawford', '46', '46.00\n']
+Sharon paid 46.00
+, expected 46.0
+['216', 'Anne Lawson', '23', '23.00\n']
+Anne paid 23.00
+, expected 23.0
+['219', 'Emily Payne', '3', '3.00\n']
+Emily paid 3.00
+, expected 3.0
+['220', 'Marie Stone', '110', '110.00\n']
+Marie paid 110.00
+, expected 110.0
+['223', 'Alice Payne', '24', '1.89\n']
+Alice paid 1.89
+, expected 24.0
+['227', 'Marie Peterson', '6', '3.44\n']
+Marie paid 3.44
+, expected 6.0
+['239', 'Irene Fuller', '8', '1.92\n']
+Irene paid 1.92
+, expected 8.0
+['240', 'Jean Phillips', '33', '33.00\n']
+Jean paid 33.00
+, expected 33.0
+['246', 'Maria Lynch', '96', '96.00\n']
+Maria paid 96.00
+, expected 96.0
+['247', 'Cynthia James', '2', '0.13\n']
+Cynthia paid 0.13
+, expected 2.0
+['249', 'Susan Pierce', '1', '1.00\n']
+Susan paid 1.00
+, expected 1.0
+['253', 'Brenda Wright', '122', '122.00\n']
+Brenda paid 122.00
+, expected 122.0
+['259', 'Joyce Gutierrez', '5', '5.00\n']
+Joyce paid 5.00
+, expected 5.0
+['260', 'Diana Ross', '4', '4.00\n']
+Diana paid 4.00
+, expected 4.0
+['272', 'Kathryn Ellis', '4', '4.00\n']
+Kathryn paid 4.00
+, expected 4.0
+['273', 'Beverly Kennedy', '102', '102.00\n']
+Beverly paid 102.00
+, expected 102.0
+['278', 'Margaret Lawson', '17', '17.00\n']
+Margaret paid 17.00
+, expected 17.0
+['281', 'Theresa Evans', '2', '2.00\n']
+Theresa paid 2.00
+, expected 2.0
+['283', 'Melissa Williamson', '3', '3.00\n']
+Melissa paid 3.00
+, expected 3.0
+['284', 'Christine Mitchell', '55', '50.26\n']
+Christine paid 50.26
+, expected 55.0
+['286', 'Martha Gonzalez', '10', '8.74\n']
+Martha paid 8.74
+, expected 10.0
+['288', 'Helen Mcdonald', '8', '8.00\n']
+Helen paid 8.00
+, expected 8.0
+['290', 'Michelle Hamilton', '5', '5.00\n']
+Michelle paid 5.00
+, expected 5.0
+['291', 'Kimberly Johnson', '54', '54.00\n']
+Kimberly paid 54.00
+, expected 54.0
+['294', 'Norma Hill', '2', '2.00\n']
+Norma paid 2.00
+, expected 2.0
+['297', 'Jennifer Henry', '5', '5.00\n']
+Jennifer paid 5.00
+, expected 5.0
+['300', 'Rebecca Adams', '10', '0.37\n']
+Rebecca paid 0.37
+, expected 10.0
+['306', 'Dorothy Wilson', '5', '1.14\n']
+Dorothy paid 1.14
+, expected 5.0
+['307', 'Gloria Anderson', '7', '4.26\n']
+Gloria paid 4.26
+, expected 7.0
+['311', 'Ann Edwards', '7', '7.00\n']
+Ann paid 7.00
+, expected 7.0
+['312', 'Ruth Green', '3', '3.00\n']
+Ruth paid 3.00
+, expected 3.0
+['319', 'Barbara Evans', '2', '2.00\n']
+Barbara paid 2.00
+, expected 2.0
+['326', 'Emily White', '3', '3.00\n']
+Emily paid 3.00
+, expected 3.0
+['327', 'Gloria Anderson', '7', '7.00\n']
+Gloria paid 7.00
+, expected 7.0
+['328', 'Ashley Howard', '67', '67.00\n']
+Ashley paid 67.00
+, expected 67.0
+['333', 'Rose Bishop', '32', '32.00\n']
+Rose paid 32.00
+, expected 32.0
+['339', 'Jane Larson', '7', '6.33\n']
+Jane paid 6.33
+, expected 7.0
+['346', 'Linda Gonzalez', '10', '10.00\n']
+Linda paid 10.00
+, expected 10.0
+['352', 'Sarah Hall', '2', '1.37\n']
+Sarah paid 1.37
+, expected 2.0
+['356', 'Irene Stephens', '1', '0.60\n']
+Irene paid 0.60
+, expected 1.0
+['357', 'Evelyn Watson', '6', '6.00\n']
+Evelyn paid 6.00
+, expected 6.0
+['358', 'Jacqueline Fox', '6', '2.97\n']
+Jacqueline paid 2.97
+, expected 6.0
+['363', 'Sharon Webb', '8', '8.00\n']
+Sharon paid 8.00
+, expected 8.0
+['367', 'Marie Cruz', '5', '5.00\n']
+Marie paid 5.00
+, expected 5.0
+['370', 'Amanda Morgan', '17', '10.50\n']
+Amanda paid 10.50
+, expected 17.0
+['372', 'Melissa Roberts', '64', '64.00\n']
+Melissa paid 64.00
+, expected 64.0
+['376', 'Christina Jones', '10', '4.97\n']
+Christina paid 4.97
+, expected 10.0
+['377', 'Louise Morrison', '5', '5.00\n']
+Louise paid 5.00
+, expected 5.0
+['378', 'Kimberly Schmidt', '4', '4.00\n']
+Kimberly paid 4.00
+, expected 4.0
+['381', 'Debra Shaw', '4', '4.00\n']
+Debra paid 4.00
+, expected 4.0
+['382', 'Theresa Marshall', '1', '1.00\n']
+Theresa paid 1.00
+, expected 1.0
+['388', 'Rose Flores', '6', '6.00\n']
+Rose paid 6.00
+, expected 6.0
+['392', 'Ann Elliott', '8', '6.43\n']
+Ann paid 6.43
+, expected 8.0
+['393', 'Donna Russell', '50', '50.00\n']
+Donna paid 50.00
+, expected 50.0
+['394', 'Amy Wood', '9', '9.00\n']
+Amy paid 9.00
+, expected 9.0
+['398', 'Margaret Kennedy', '7', '1.94\n']
+Margaret paid 1.94
+, expected 7.0
+['401', 'Irene Shaw', '10', '1.79\n']
+Irene paid 1.79
+, expected 10.0
+['403', 'Heather Morales', '4', '4.00\n']
+Heather paid 4.00
+, expected 4.0
+['409', 'Anne Williams', '13', '13.00\n']
+Anne paid 13.00
+, expected 13.0
+['410', 'Lori Matthews', '7', '7.00\n']
+Lori paid 7.00
+, expected 7.0
+['414', 'Anne Franklin', '6', '3.24\n']
+Anne paid 3.24
+, expected 6.0
+['415', 'Pamela Long', '1', '0.11\n']
+Pamela paid 0.11
+, expected 1.0
+['420', 'Gloria Hernandez', '4', '4.00\n']
+Gloria paid 4.00
+, expected 4.0
+['421', 'Nancy Rodriguez', '1', '1.00\n']
+Nancy paid 1.00
+, expected 1.0
+['422', 'Jennifer Gonzales', '8', '8.00\n']
+Jennifer paid 8.00
+, expected 8.0
+['423', 'Jane Rice', '5', '3.85\n']
+Jane paid 3.85
+, expected 5.0
+['425', 'Heather Knight', '16', '16.00\n']
+Heather paid 16.00
+, expected 16.0
+['428', 'Linda Cole', '66', '14.84\n']
+Linda paid 14.84
+, expected 66.0
+['430', 'Doris Davis', '81', '81.00\n']
+Doris paid 81.00
+, expected 81.0
+['431', 'Katherine Bennett', '43', '43.00\n']
+Katherine paid 43.00
+, expected 43.0
+['433', 'Theresa Richardson', '16', '14.75\n']
+Theresa paid 14.75
+, expected 16.0
+['435', 'Rebecca Clark', '2', '0.66\n']
+Rebecca paid 0.66
+, expected 2.0
+['436', 'Christine Howard', '8', '5.25\n']
+Christine paid 5.25
+, expected 8.0
+['437', 'Betty Powell', '9', '7.61\n']
+Betty paid 7.61
+, expected 9.0
+['439', 'Denise Lawrence', '9', '9.00\n']
+Denise paid 9.00
+, expected 9.0
+['441', 'Virginia Powell', '6', '6.00\n']
+Virginia paid 6.00
+, expected 6.0
+['442', 'Carol King', '2', '2.00\n']
+Carol paid 2.00
+, expected 2.0
+['444', 'Susan Watkins', '64', '9.79\n']
+Susan paid 9.79
+, expected 64.0
+['445', 'Louise Wallace', '4', '4.00\n']
+Louise paid 4.00
+, expected 4.0
+['455', 'Kelly Day', '93', '93.00\n']
+Kelly paid 93.00
+, expected 93.0
+['457', 'Robin Boyd', '1', '1.00\n']
+Robin paid 1.00
+, expected 1.0
+['458', 'Louise Ryan', '10', '10.00\n']
+Louise paid 10.00
+, expected 10.0
+['459', 'Jessica Porter', '65', '65.00\n']
+Jessica paid 65.00
+, expected 65.0
+['461', 'Kelly Kelley', '2', '2.00\n']
+Kelly paid 2.00
+, expected 2.0
+['464', 'Wanda Sanders', '1', '0.32\n']
+Wanda paid 0.32
+, expected 1.0
+['475', 'Judith Armstrong', '6', '6.00\n']
+Judith paid 6.00
+, expected 6.0
+['476', 'Mildred Chapman', '97', '97.00\n']
+Mildred paid 97.00
+, expected 97.0
+['478', 'Julie Hughes', '18', '18.00\n']
+Julie paid 18.00
+, expected 18.0
+['479', 'Denise Reid', '19', '19.00\n']
+Denise paid 19.00
+, expected 19.0
+['488', 'Lori Austin', '3', '3.00\n']
+Lori paid 3.00
+, expected 3.0
+['489', 'Judith Perry', '9', '9.00\n']
+Judith paid 9.00
+, expected 9.0
+['490', 'Theresa Arnold', '5', '5.00\n']
+Theresa paid 5.00
+, expected 5.0
+['491', 'Christine Clark', '8', '8.00\n']
+Christine paid 8.00
+, expected 8.0
+['492', 'Kathryn Armstrong', '22', '8.99\n']
+Kathryn paid 8.99
+, expected 22.0
+['501', 'Marie Ford', '31', '25.02\n']
+Marie paid 25.02
+, expected 31.0
+['511', 'Tina Hill', '8', '6.91\n']
+Tina paid 6.91
+, expected 8.0
+['516', 'Maria Wright', '2', '1.56\n']
+Maria paid 1.56
+, expected 2.0
+['519', 'Diane Woods', '8', '8.00\n']
+Diane paid 8.00
+, expected 8.0
+['522', 'Martha Palmer', '65', '65.00\n']
+Martha paid 65.00
+, expected 65.0
+['529', 'Nicole Rivera', '2', '0.27\n']
+Nicole paid 0.27
+, expected 2.0
+['537', 'Jacqueline Miller', '9', '9.00\n']
+Jacqueline paid 9.00
+, expected 9.0
+['545', 'Lisa Williams', '2', '2.00\n']
+Lisa paid 2.00
+, expected 2.0
+['548', 'Sandra Dunn', '8', '8.00\n']
+Sandra paid 8.00
+, expected 8.0
+['549', 'Louise Cook', '21', '21.00\n']
+Louise paid 21.00
+, expected 21.0
+['550', 'Lillian Reyes', '5', '5.00\n']
+Lillian paid 5.00
+, expected 5.0
+['552', 'Sara Holmes', '82', '82.00\n']
+Sara paid 82.00
+, expected 82.0
+['555', 'Sharon Perkins', '11', '11.00\n']
+Sharon paid 11.00
+, expected 11.0
+['561', 'Christine Cook', '5', '5.00\n']
+Christine paid 5.00
+, expected 5.0
+['563', 'Martha Bennett', '12', '12.00\n']
+Martha paid 12.00
+, expected 12.0
+['565', 'Theresa Lane', '57', '53.58\n']
+Theresa paid 53.58
+, expected 57.0
+['566', 'Amanda Ramos', '11', '2.89\n']
+Amanda paid 2.89
+, expected 11.0
+['567', 'Paula Ellis', '42', '29.88\n']
+Paula paid 29.88
+, expected 42.0
+['568', 'Heather Ortiz', '2', '2.00\n']
+Heather paid 2.00
+, expected 2.0
+['570', 'Jane Cunningham', '5', '5.00\n']
+Jane paid 5.00
+, expected 5.0
+['573', 'Irene Hunter', '78', '78.00\n']
+Irene paid 78.00
+, expected 78.0
+['577', 'Amanda Harrison', '1', '1.00\n']
+Amanda paid 1.00
+, expected 1.0
+['578', 'Elizabeth Foster', '10', '10.00\n']
+Elizabeth paid 10.00
+, expected 10.0
+['579', 'Cheryl Scott', '10', '1.82\n']
+Cheryl paid 1.82
+, expected 10.0
+['582', 'Emily George', '2', '0.27\n']
+Emily paid 0.27
+, expected 2.0
+['586', 'Michelle Roberts', '6', '6.00\n']
+Michelle paid 6.00
+, expected 6.0
+['588', 'Jacqueline Hayes', '17', '17.00\n']
+Jacqueline paid 17.00
+, expected 17.0
+['589', 'Marilyn Chavez', '5', '5.00\n']
+Marilyn paid 5.00
+, expected 5.0
+['591', 'Sara Hill', '10', '10.00\n']
+Sara paid 10.00
+, expected 10.0
+['595', 'Katherine Fisher', '10', '7.47\n']
+Katherine paid 7.47
+, expected 10.0
+['596', 'Robin Stanley', '3', '3.00\n']
+Robin paid 3.00
+, expected 3.0
+['599', 'Jessica Thompson', '13', '13.00\n']
+Jessica paid 13.00
+, expected 13.0
+['600', 'Debra Chavez', '98', '87.20\n']
+Debra paid 87.20
+, expected 98.0
+['601', 'Heather Gilbert', '6', '5.10\n']
+Heather paid 5.10
+, expected 6.0
+['602', 'Amanda Henderson', '1', '0.40\n']
+Amanda paid 0.40
+, expected 1.0
+['605', 'Angela Gonzales', '99', '89.42\n']
+Angela paid 89.42
+, expected 99.0
+['606', 'Betty Carpenter', '24', '24.00\n']
+Betty paid 24.00
+, expected 24.0
+['609', 'Kathy Scott', '8', '8.00\n']
+Kathy paid 8.00
+, expected 8.0
+['614', 'Katherine Riley', '2', '2.00\n']
+Katherine paid 2.00
+, expected 2.0
+['616', 'Janet Martin', '16', '16.00\n']
+Janet paid 16.00
+, expected 16.0
+['617', 'Marilyn Cook', '3', '3.00\n']
+Marilyn paid 3.00
+, expected 3.0
+['619', 'Lois George', '8', '6.82\n']
+Lois paid 6.82
+, expected 8.0
+['623', 'Sandra Morgan', '3', '0.78\n']
+Sandra paid 0.78
+, expected 3.0
+['632', 'Ann Taylor', '5', '5.00\n']
+Ann paid 5.00
+, expected 5.0
+['638', 'Denise Thomas', '7', '2.10\n']
+Denise paid 2.10
+, expected 7.0
+['640', 'Andrea Jacobs', '62', '62.00\n']
+Andrea paid 62.00
+, expected 62.0
+['648', 'Sara Fields', '2', '2.00\n']
+Sara paid 2.00
+, expected 2.0
+['649', 'Mary Warren', '23', '2.74\n']
+Mary paid 2.74
+, expected 23.0
+['650', 'Doris Franklin', '17', '16.43\n']
+Doris paid 16.43
+, expected 17.0
+['651', 'Dorothy Castillo', '2', '1.34\n']
+Dorothy paid 1.34
+, expected 2.0
+['652', 'Julia Cruz', '9', '9.00\n']
+Julia paid 9.00
+, expected 9.0
+['657', 'Kelly Parker', '14', '14.00\n']
+Kelly paid 14.00
+, expected 14.0
+['658', 'Diane Oliver', '15', '15.00\n']
+Diane paid 15.00
+, expected 15.0
+['662', 'Susan Murphy', '39', '3.79\n']
+Susan paid 3.79
+, expected 39.0
+['663', 'Angela Perry', '6', '1.13\n']
+Angela paid 1.13
+, expected 6.0
+['669', 'Mary Cook', '6', '6.00\n']
+Mary paid 6.00
+, expected 6.0
+['670', 'Beverly Lewis', '3', '3.00\n']
+Beverly paid 3.00
+, expected 3.0
+['672', 'Ruth Richardson', '5', '0.67\n']
+Ruth paid 0.67
+, expected 5.0
+['676', 'Kathy Bishop', '91', '91.00\n']
+Kathy paid 91.00
+, expected 91.0
+['679', 'Phyllis Scott', '4', '4.00\n']
+Phyllis paid 4.00
+, expected 4.0
+['683', 'Katherine Hart', '2', '0.49\n']
+Katherine paid 0.49
+, expected 2.0
+['685', 'Jennifer Ruiz', '19', '8.85\n']
+Jennifer paid 8.85
+, expected 19.0
+['686', 'Janice Martinez', '2', '0.39\n']
+Janice paid 0.39
+, expected 2.0
+['687', 'Margaret Mendoza', '9', '9.00\n']
+Margaret paid 9.00
+, expected 9.0
+['693', 'Dorothy Ellis', '10', '9.72\n']
+Dorothy paid 9.72
+, expected 10.0
+['694', 'Michelle Griffin', '31', '24.68\n']
+Michelle paid 24.68
+, expected 31.0
+['696', 'Ashley Cox', '8', '8.00\n']
+Ashley paid 8.00
+, expected 8.0
+['701', 'Anna Rogers', '12', '12.00\n']
+Anna paid 12.00
+, expected 12.0
+['702', 'Heather Rice', '3', '3.00\n']
+Heather paid 3.00
+, expected 3.0
+['706', 'Annie Nichols', '23', '23.00\n']
+Annie paid 23.00
+, expected 23.0
+['709', 'Michelle Adams', '5', '0.60\n']
+Michelle paid 0.60
+, expected 5.0
+['713', 'Joyce Moreno', '91', '91.00\n']
+Joyce paid 91.00
+, expected 91.0
+['715', 'Mildred Harrison', '18', '18.00\n']
+Mildred paid 18.00
+, expected 18.0
+['725', 'Lori Taylor', '48', '48.00\n']
+Lori paid 48.00
+, expected 48.0
+['729', 'Anne Perry', '94', '83.01\n']
+Anne paid 83.01
+, expected 94.0
+['730', 'Diane Welch', '69', '69.00\n']
+Diane paid 69.00
+, expected 69.0
+['732', 'Rachel Anderson', '3', '0.04\n']
+Rachel paid 0.04
+, expected 3.0
+['735', 'Lisa Davis', '8', '4.40\n']
+Lisa paid 4.40
+, expected 8.0
+['737', 'Julie Phillips', '1', '1.00\n']
+Julie paid 1.00
+, expected 1.0
+['740', 'Heather Garza', '1', '1.00\n']
+Heather paid 1.00
+, expected 1.0
+['746', 'Gloria Austin', '9', '9.00\n']
+Gloria paid 9.00
+, expected 9.0
+['747', 'Ashley Ross', '10', '10.00\n']
+Ashley paid 10.00
+, expected 10.0
+['748', 'Dorothy Dunn', '9', '9.00\n']
+Dorothy paid 9.00
+, expected 9.0
+['750', 'Andrea Dean', '55', '55.00\n']
+Andrea paid 55.00
+, expected 55.0
+['755', 'Judy Welch', '8', '2.04\n']
+Judy paid 2.04
+, expected 8.0
+['759', 'Julia Patterson', '8', '8.00\n']
+Julia paid 8.00
+, expected 8.0
+['764', 'Andrea Phillips', '10', '10.00\n']
+Andrea paid 10.00
+, expected 10.0
+['765', 'Janice Willis', '9', '1.94\n']
+Janice paid 1.94
+, expected 9.0
+['771', 'Jacqueline Watson', '1', '1.00\n']
+Jacqueline paid 1.00
+, expected 1.0
+['773', 'Marie Fuller', '39', '5.33\n']
+Marie paid 5.33
+, expected 39.0
+['775', 'Christine Powell', '1', '0.59\n']
+Christine paid 0.59
+, expected 1.0
+['783', 'Anne Palmer', '14', '14.00\n']
+Anne paid 14.00
+, expected 14.0
+['785', 'Maria Evans', '8', '8.00\n']
+Maria paid 8.00
+, expected 8.0
+['787', 'Denise Gray', '7', '3.70\n']
+Denise paid 3.70
+, expected 7.0
+['797', 'Debra Sullivan', '20', '20.00\n']
+Debra paid 20.00
+, expected 20.0
+['798', 'Judy Hansen', '8', '8.00\n']
+Judy paid 8.00
+, expected 8.0
+['801', 'Mary Harper', '5', '5.00\n']
+Mary paid 5.00
+, expected 5.0
+['803', 'Phyllis Baker', '50', '50.00\n']
+Phyllis paid 50.00
+, expected 50.0
+['809', 'Andrea Rogers', '7', '7.00\n']
+Andrea paid 7.00
+, expected 7.0
+['815', 'Pamela Rogers', '10', '10.00\n']
+Pamela paid 10.00
+, expected 10.0
+['817', 'Carol Lawrence', '12', '5.66\n']
+Carol paid 5.66
+, expected 12.0
+['819', 'Doris Garcia', '2', '2.00\n']
+Doris paid 2.00
+, expected 2.0
+['825', 'Pamela Mills', '5', '1.46\n']
+Pamela paid 1.46
+, expected 5.0
+['827', 'Marie Robinson', '16', '16.00\n']
+Marie paid 16.00
+, expected 16.0
+['834', 'Diane Coleman', '5', '5.00\n']
+Diane paid 5.00
+, expected 5.0
+['839', 'Jacqueline Ford', '2', '0.81\n']
+Jacqueline paid 0.81
+, expected 2.0
+['845', 'Denise Medina', '9', '9.00\n']
+Denise paid 9.00
+, expected 9.0
+['846', 'Susan Garza', '7', '7.00\n']
+Susan paid 7.00
+, expected 7.0
+['848', 'Tina Olson', '17', '17.00\n']
+Tina paid 17.00
+, expected 17.0
+['861', 'Tammy Hunt', '6', '6.00\n']
+Tammy paid 6.00
+, expected 6.0
+['863', 'Rachel Crawford', '14', '14.00\n']
+Rachel paid 14.00
+, expected 14.0
+['864', 'Tammy Washington', '67', '67.00\n']
+Tammy paid 67.00
+, expected 67.0
+['869', 'Ashley Fowler', '6', '6.00\n']
+Ashley paid 6.00
+, expected 6.0
+['875', 'Elizabeth Fields', '10', '1.14\n']
+Elizabeth paid 1.14
+, expected 10.0
+['877', 'Christine Snyder', '46', '26.27\n']
+Christine paid 26.27
+, expected 46.0
+['892', 'Heather Lewis', '7', '7.00\n']
+Heather paid 7.00
+, expected 7.0
+['893', 'Joyce Foster', '87', '51.17\n']
+Joyce paid 51.17
+, expected 87.0
+['894', 'Judy Patterson', '1', '1.00\n']
+Judy paid 1.00
+, expected 1.0
+['897', 'Paula Frazier', '7', '5.24\n']
+Paula paid 5.24
+, expected 7.0
+['900', 'Ruth Young', '4', '2.69\n']
+Ruth paid 2.69
+, expected 4.0
+['901', 'Pamela Phillips', '2', '2.00\n']
+Pamela paid 2.00
+, expected 2.0
+['902', 'Jean Chapman', '60', '60.00\n']
+Jean paid 60.00
+, expected 60.0
+['906', 'Ashley Porter', '10', '3.89\n']
+Ashley paid 3.89
+, expected 10.0
+['908', 'Margaret Gomez', '10', '7.14\n']
+Margaret paid 7.14
+, expected 10.0
+['910', 'Wanda Powell', '3', '3.00\n']
+Wanda paid 3.00
+, expected 3.0
+['912', 'Julie Marshall', '14', '14.00\n']
+Julie paid 14.00
+, expected 14.0
+['913', 'Marie Griffin', '8', '1.86\n']
+Marie paid 1.86
+, expected 8.0
+['919', 'Sharon Gray', '53', '53.00\n']
+Sharon paid 53.00
+, expected 53.0
+['923', 'Lois Price', '6', '0.06\n']
+Lois paid 0.06
+, expected 6.0
+['925', 'Frances Butler', '2', '2.00\n']
+Frances paid 2.00
+, expected 2.0
+['926', 'Julie Daniels', '4', '4.00\n']
+Julie paid 4.00
+, expected 4.0
+['928', 'Heather Jordan', '4', '4.00\n']
+Heather paid 4.00
+, expected 4.0
+['931', 'Joyce Nelson', '7', '7.00\n']
+Joyce paid 7.00
+, expected 7.0
+['933', 'Phyllis Hernandez', '7', '7.00\n']
+Phyllis paid 7.00
+, expected 7.0
+['934', 'Kathleen Hansen', '15', '15.00\n']
+Kathleen paid 15.00
+, expected 15.0
+['937', 'Patricia Nguyen', '8', '7.95\n']
+Patricia paid 7.95
+, expected 8.0
+['938', 'Annie Elliott', '3', '2.95\n']
+Annie paid 2.95
+, expected 3.0
+['943', 'Sandra Crawford', '4', '3.91\n']
+Sandra paid 3.91
+, expected 4.0
+['945', 'Kathryn Gutierrez', '3', '3.00\n']
+Kathryn paid 3.00
+, expected 3.0
+['947', 'Amanda Cook', '7', '7.00\n']
+Amanda paid 7.00
+, expected 7.0
+['949', 'Gloria Shaw', '2', '2.00\n']
+Gloria paid 2.00
+, expected 2.0
+['951', 'Ruby Fernandez', '4', '4.00\n']
+Ruby paid 4.00
+, expected 4.0
+['954', 'Nancy Green', '6', '2.19\n']
+Nancy paid 2.19
+, expected 6.0
+['958', 'Lisa Ross', '8', '8.00\n']
+Lisa paid 8.00
+, expected 8.0
+['959', 'Teresa Daniels', '7', '7.00\n']
+Teresa paid 7.00
+, expected 7.0
+['960', 'Sharon Flores', '20', '20.00\n']
+Sharon paid 20.00
+, expected 20.0
+['961', 'Lois Morgan', '6', '2.22\n']
+Lois paid 2.22
+, expected 6.0
+['963', 'Rose Lopez', '74', '64.19\n']
+Rose paid 64.19
+, expected 74.0
+['965', 'Irene Ward', '14', '1.85\n']
+Irene paid 1.85
+, expected 14.0
+['967', 'Marilyn Walker', '2', '2.00\n']
+Marilyn paid 2.00
+, expected 2.0
+['968', 'Doris Johnson', '8', '8.00\n']
+Doris paid 8.00
+, expected 8.0
+['973', 'Alice Andrews', '1', '0.54\n']
+Alice paid 0.54
+, expected 1.0
+['974', 'Amy Stanley', '33', '33.00\n']
+Amy paid 33.00
+, expected 33.0
+['978', 'Betty Peterson', '18', '18.00\n']
+Betty paid 18.00
+, expected 18.0
+['980', 'Lori Myers', '5', '5.00\n']
+Lori paid 5.00
+, expected 5.0
+['984', 'Donna Kelley', '15', '15.00\n']
+Donna paid 15.00
+, expected 15.0
+['989', 'Donna Moore', '3', '3.00\n']
+Donna paid 3.00
+, expected 3.0
+['990', 'Andrea Gibson', '166', '89.72\n']
+Andrea paid 89.72
+, expected 166.0
+['991', 'Rose Austin', '7', '5.68\n']
+Rose paid 5.68
+, expected 7.0
+['993', 'Christine Hart', '10', '5.06\n']
+Christine paid 5.06
+, expected 10.0
+['994', 'Irene Brooks', '3', '3.00\n']
+Irene paid 3.00
+, expected 3.0
+['995', 'Bonnie Williamson', '4', '1.11\n']
+Bonnie paid 1.11
+, expected 4.0
+['996', 'Susan Andrews', '7', '7.00\n']
+Susan paid 7.00
+, expected 7.0
+['997', 'Teresa Henry', '6', '6.00\n']
+Teresa paid 6.00
+, expected 6.0
+['998', 'Rose Vasquez', '3', '2.19\n']
+Rose paid 2.19
+, expected 3.0
